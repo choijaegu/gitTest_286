@@ -1,5 +1,6 @@
 package exam;
 
-public class Test00 {
+public class Test00 
+{
 
 }
